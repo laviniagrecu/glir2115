@@ -6,11 +6,11 @@ import java.io.*;
 import java.util.LinkedList;
 import java.util.List;
 
-public class EleviRepositoryMock implements EleviRepository{
+public class EleviRepository implements IEleviRepository {
 
 	private List<Elev> elevi;
 	
-	public EleviRepositoryMock() {
+	public EleviRepository() {
 		elevi = new LinkedList<Elev>();
 	}
 	

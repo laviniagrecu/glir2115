@@ -8,14 +8,14 @@ import java.util.HashMap;
 import java.util.List;
 
 public class NoteController {
-	private NoteRepository note;
-	private ClasaRepository clasa;
-	private EleviRepository elevi;
+	private INoteRepository note;
+	private IClasaRepository clasa;
+	private IEleviRepository elevi;
 
 	public NoteController() {
-		note = new NoteRepositoryMock();
-		clasa = new ClasaRepositoryMock();
-		elevi = new EleviRepositoryMock();
+		note = new NoteRepository();
+		clasa = new ClasaRepository();
+		elevi = new EleviRepository();
 	}
 	
 	public void addNota(Nota nota) throws ClasaException {

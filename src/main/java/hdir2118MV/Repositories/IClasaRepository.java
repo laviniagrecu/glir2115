@@ -6,7 +6,7 @@ import hdir2118MV.utils.ClasaException;
 import java.util.HashMap;
 import java.util.List;
 
-public interface ClasaRepository {
+public interface IClasaRepository {
 	
 	public void creazaClasa(List<Elev> elevi, List<Nota> note);
 	public HashMap<Elev, HashMap<String, List<Double>>> getClasa();

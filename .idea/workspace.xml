@@ -2,11 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40010e71-3ab1-4a8f-9931-895f159b23eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/hdir2118MV/test/AddNotaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hdir2118MV/test/CalculeazaMediiTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hdir2118MV/test/GetCorigentiTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hdir2118MV/test/IntegrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hdir2118MV/Controllers/NoteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hdir2118MV/Controllers/NoteController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/ClasaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/ClasaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/EleviRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/EleviRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/IClasaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/IClasaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/IEleviRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/IEleviRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/INoteRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/INoteRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/NoteRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/NoteRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hdir2118MV/Controllers/NoteController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hdir2118MV/Controllers/NoteController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hdir2118MV/Repositories/ClasaRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hdir2118MV/Repositories/ClasaRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hdir2118MV/Repositories/ClasaRepositoryMock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hdir2118MV/Repositories/EleviRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hdir2118MV/Repositories/EleviRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hdir2118MV/Repositories/EleviRepositoryMock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hdir2118MV/Repositories/NoteRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hdir2118MV/Repositories/NoteRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hdir2118MV/Repositories/NoteRepositoryMock.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,50 +27,202 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-229114762">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.11" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="elevi" value="1" />
-          <entry key="java" value="48" />
-          <entry key="note" value="1" />
-          <entry key="xml" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="48" />
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="XML" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="649" />
-          <entry key="xml" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="649" />
-          <entry key="XML" value="2" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/hdir2118MV/test/AddNotaTest.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Main/StartApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            <state relative-caret-position="220">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="uml://JAVA/hdir2118MV">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>hdir2118MV</OriginalElement>
+              <nodes>
+                <node x="0.0" y="1087.0">hdir2118MV.utils.Constants</node>
+                <node x="781.5234126984126" y="0.0">hdir2118MV.Models.Elev</node>
+                <node x="1189.4955908289244" y="702.0">hdir2118MV.Repositories.IEleviRepository</node>
+                <node x="839.9221781305116" y="191.0">hdir2118MV.Models.Medie</node>
+                <node x="258.0" y="1087.0">hdir2118MV.utils.ClasaException</node>
+                <node x="425.9221781305116" y="169.0">hdir2118MV.Repositories.IClasaRepository</node>
+                <node x="1054.4661375661376" y="179.5">hdir2118MV.Models.Corigent</node>
+                <node x="530.9221781305116" y="991.0">hdir2118MV.Main.StartApp</node>
+                <node x="47.5" y="702.0">hdir2118MV.Repositories.INoteRepository</node>
+                <node x="65.70185185185187" y="180.0">hdir2118MV.Models.Nota</node>
+                <node x="425.9221781305116" y="569.0">hdir2118MV.Controllers.NoteController</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="hdir2118MV.Repositories.NoteRepository" target="hdir2118MV.Repositories.INoteRepository">
+                  <point x="0.0" y="-48.0" />
+                  <point x="-50.5" y="48.0" />
+                </edge>
+                <edge source="hdir2118MV.Controllers.NoteController" target="hdir2118MV.Repositories.IEleviRepository">
+                  <point x="168.8571428571429" y="-181.0" />
+                  <point x="791.7793209876545" y="549.0" />
+                  <point x="1189.4955908289244" y="549.0" />
+                  <point x="-50.0" y="48.0" />
+                </edge>
+                <edge source="hdir2118MV.Repositories.ClasaRepository" target="hdir2118MV.Repositories.IClasaRepository">
+                  <point x="0.0" y="-70.0" />
+                  <point x="584.1161375661376" y="349.0" />
+                  <point x="622.9221781305116" y="349.0" />
+                  <point x="0.0" y="70.0" />
+                </edge>
+                <edge source="hdir2118MV.Repositories.IClasaRepository" target="hdir2118MV.Models.Medie">
+                  <point x="78.79999999999995" y="-70.0" />
+                  <point x="662.9161375661375" y="329.0" />
+                  <point x="868.0888447971782" y="329.0" />
+                  <point x="-56.33333333333337" y="48.0" />
+                </edge>
+                <edge source="hdir2118MV.Repositories.IClasaRepository" target="hdir2118MV.Models.Corigent">
+                  <point x="157.60000000000002" y="-70.0" />
+                  <point x="741.7161375661376" y="339.0" />
+                  <point x="1087.1328042328041" y="339.0" />
+                  <point x="-65.33333333333326" y="59.5" />
+                </edge>
+                <edge source="hdir2118MV.Repositories.IEleviRepository" target="hdir2118MV.Models.Elev">
+                  <point x="0.0" y="-48.0" />
+                  <point x="1239.4955908289244" y="349.0" />
+                  <point x="1271.9437389770724" y="349.0" />
+                  <point x="1271.9437389770724" y="139.0" />
+                  <point x="933.6234126984127" y="139.0" />
+                  <point x="67.60000000000002" y="59.5" />
+                </edge>
+                <edge source="hdir2118MV.Repositories.IClasaRepository" target="hdir2118MV.Models.Elev">
+                  <point x="-78.80000000000007" y="-70.0" />
+                  <point x="505.3161375661375" y="329.0" />
+                  <point x="415.4221781305116" y="329.0" />
+                  <point x="415.4221781305116" y="149.0" />
+                  <point x="832.2234126984126" y="149.0" />
+                  <point x="-33.799999999999955" y="59.5" />
+                </edge>
+                <edge source="hdir2118MV.Repositories.INoteRepository" target="hdir2118MV.Models.Nota">
+                  <point x="0.0" y="-48.0" />
+                  <point x="199.0" y="349.0" />
+                  <point x="190.20185185185187" y="349.0" />
+                  <point x="0.0" y="59.0" />
+                </edge>
+                <edge source="hdir2118MV.Controllers.NoteController" target="hdir2118MV.Models.Elev">
+                  <point x="-56.285714285714334" y="-181.0" />
+                  <point x="566.6364638447973" y="529.0" />
+                  <point x="371.1161375661376" y="529.0" />
+                  <point x="371.1161375661376" y="139.0" />
+                  <point x="798.4234126984127" y="139.0" />
+                  <point x="-67.60000000000002" y="59.5" />
+                </edge>
+                <edge source="hdir2118MV.Repositories.IClasaRepository" target="hdir2118MV.Models.Nota">
+                  <point x="-157.60000000000008" y="-70.0" />
+                  <point x="426.5161375661375" y="339.0" />
+                  <point x="289.8018518518519" y="339.0" />
+                  <point x="99.60000000000002" y="59.0" />
+                </edge>
+                <edge source="hdir2118MV.Main.StartApp" target="hdir2118MV.Models.Medie">
+                  <point x="46.0" y="-25.5" />
+                  <point x="668.9221781305116" y="961.0" />
+                  <point x="1128.9955908289244" y="961.0" />
+                  <point x="1128.9955908289244" y="329.0" />
+                  <point x="980.755511463845" y="329.0" />
+                  <point x="56.33333333333337" y="48.0" />
+                </edge>
+                <edge source="hdir2118MV.Main.StartApp" target="hdir2118MV.Models.Corigent">
+                  <point x="76.66666666666663" y="-25.5" />
+                  <point x="699.5888447971782" y="971.0" />
+                  <point x="1399.9955908289244" y="971.0" />
+                  <point x="1399.9955908289244" y="339.0" />
+                  <point x="1217.7994708994706" y="339.0" />
+                  <point x="65.33333333333326" y="59.5" />
+                </edge>
+                <edge source="hdir2118MV.Main.StartApp" target="hdir2118MV.Controllers.NoteController">
+                  <point x="15.333333333333371" y="-25.5" />
+                  <point x="638.255511463845" y="951.0" />
+                  <point x="721.4221781305116" y="951.0" />
+                  <point x="98.5" y="181.0" />
+                </edge>
+                <edge source="hdir2118MV.Models.Medie" target="hdir2118MV.Models.Elev">
+                  <point x="42.25" y="-48.0" />
+                  <point x="966.6721781305116" y="149.0" />
+                  <point x="899.8234126984125" y="149.0" />
+                  <point x="33.799999999999955" y="59.5" />
+                </edge>
+                <edge source="hdir2118MV.Controllers.NoteController" target="hdir2118MV.Repositories.INoteRepository">
+                  <point x="-168.85714285714295" y="-181.0" />
+                  <point x="454.06503527336866" y="549.0" />
+                  <point x="249.5" y="549.0" />
+                  <point x="50.5" y="48.0" />
+                </edge>
+                <edge source="hdir2118MV.Controllers.NoteController" target="hdir2118MV.Models.Nota">
+                  <point x="-112.57142857142867" y="-181.0" />
+                  <point x="510.35074955908294" y="539.0" />
+                  <point x="332.21428571428567" y="539.0" />
+                  <point x="332.21428571428567" y="349.0" />
+                  <point x="240.00185185185188" y="349.0" />
+                  <point x="49.80000000000001" y="59.0" />
+                </edge>
+                <edge source="hdir2118MV.Repositories.EleviRepository" target="hdir2118MV.Repositories.IEleviRepository">
+                  <point x="0.0" y="-48.0" />
+                  <point x="50.0" y="48.0" />
+                </edge>
+                <edge source="hdir2118MV.Main.StartApp" target="hdir2118MV.Models.Nota">
+                  <point x="-46.0" y="-25.5" />
+                  <point x="576.9221781305116" y="961.0" />
+                  <point x="37.0" y="961.0" />
+                  <point x="37.0" y="349.0" />
+                  <point x="140.40185185185192" y="349.0" />
+                  <point x="-49.799999999999955" y="59.0" />
+                </edge>
+                <edge source="hdir2118MV.Controllers.NoteController" target="hdir2118MV.Models.Medie">
+                  <point x="56.28571428571422" y="-181.0" />
+                  <point x="679.2078924162258" y="529.0" />
+                  <point x="941.5888447971784" y="529.0" />
+                  <point x="941.5888447971784" y="329.0" />
+                  <point x="924.4221781305116" y="329.0" />
+                  <point x="0.0" y="48.0" />
+                </edge>
+                <edge source="hdir2118MV.Controllers.NoteController" target="hdir2118MV.Repositories.IClasaRepository">
+                  <point x="0.0" y="-181.0" />
+                  <point x="622.9221781305116" y="549.0" />
+                  <point x="584.1161375661376" y="549.0" />
+                  <point x="0.0" y="70.0" />
+                </edge>
+                <edge source="hdir2118MV.Controllers.NoteController" target="hdir2118MV.Models.Corigent">
+                  <point x="112.57142857142856" y="-181.0" />
+                  <point x="735.4936067019402" y="539.0" />
+                  <point x="1076.0313051146386" y="539.0" />
+                  <point x="1076.0313051146386" y="349.0" />
+                  <point x="1152.4661375661376" y="349.0" />
+                  <point x="0.0" y="59.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.40288378815009235" x="1625.635837183408" y="909.5484480017892" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Fields</Category>
+                <Category>Constructors</Category>
+                <Category>Methods</Category>
+                <Category>Properties</Category>
+                <Category>Inner Classes</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Controllers/NoteController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -86,9 +249,7 @@
         <option value="$PROJECT_DIR$/src/main/java/hdir2118MV/Models/Nota.java" />
         <option value="$PROJECT_DIR$/src/main/java/hdir2118MV/utils/Constants.java" />
         <option value="$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/EleviRepository.java" />
-        <option value="$PROJECT_DIR$/src/main/java/hdir2118MV/Controllers/NoteController.java" />
         <option value="$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/NoteRepository.java" />
-        <option value="$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/ClasaRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/NoteRepositoryMock.java" />
         <option value="$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/ClasaRepositoryMock.java" />
         <option value="$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/EleviRepositoryMock.java" />
@@ -99,6 +260,8 @@
         <option value="$PROJECT_DIR$/src/test/java/hdir2118MV/test/GetCorigentiTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/hdir2118MV/test/CalculeazaMediiTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/hdir2118MV/test/AddNotaTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/ClasaRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hdir2118MV/Controllers/NoteController.java" />
       </list>
     </option>
   </component>
@@ -110,7 +273,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="x" value="536" />
+    <option name="y" value="71" />
     <option name="width" value="1440" />
     <option name="height" value="823" />
   </component>
@@ -120,7 +284,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,41 +321,60 @@
               <item name="hdir2118" type="b2602c69:ProjectViewProjectNode" />
               <item name="NoteElevi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hdir2118" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NoteElevi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hdir2118" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NoteElevi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hdir2118MV" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hdir2118" type="b2602c69:ProjectViewProjectNode" />
               <item name="NoteElevi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hdir2118MV" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hdir2118" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NoteElevi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hdir2118MV" type="462c0819:PsiDirectoryNode" />
+              <item name="Models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hdir2118" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NoteElevi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hdir2118MV" type="462c0819:PsiDirectoryNode" />
+              <item name="Repositories" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hdir2118" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NoteElevi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hdir2118MV" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552937447129" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552940841714" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -251,39 +433,47 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552932967409</updated>
+      <workItem from="1552938114637" duration="2225000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2225000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="823" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.051502146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32968536" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32968536" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32968536" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32968536" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.036144577" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32968536" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
     <layout-to-restore>
       <window_info id="Image Layers" order="0" />
@@ -314,8 +504,8 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
     </layout-to-restore>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -325,13 +515,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Main/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Main/App.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Models/Corigent.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -352,41 +536,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/NoteRepository.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/INoteRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/ClasaRepository.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/IClasaRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/ClasaRepositoryMock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1195">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/utils/InputException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-          <folding>
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/utils/InputException.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Models/Nota.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -394,13 +558,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/utils/NotaException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/utils/NotaException.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/utils/ClasaException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -419,58 +577,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/NoteRepositoryMock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-225">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Controllers/NoteController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-37">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Main/StartApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#897#904#0" expanded="true" />
-            <element signature="e#950#960#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/EleviRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/EleviRepositoryMock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -503,11 +609,296 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/hdir2118MV/test/AddNotaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="15">
           <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MODULES/mdl-hdir2118">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MODULES</ID>
+          <OriginalElement>mdl-hdir2118</OriginalElement>
+          <nodes>
+            <node x="" y="">mdl-hdir2118</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="69.5" y="14.5" />
+          <SelectedNodes />
+          <Categories />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//Users/denisah/Documents/University Sem2/VVSS/NoteElevi">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="522.0" y="219.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//Users/denisah/Documents/University Sem2/VVSS/NoteElevi/src">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="522.0" y="219.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/IEleviRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/ClasaRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/NoteRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/EleviRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Controllers/NoteController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Main/StartApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/hdir2118MV">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>hdir2118MV</OriginalElement>
+          <nodes>
+            <node x="0.0" y="1087.0">hdir2118MV.utils.Constants</node>
+            <node x="781.5234126984126" y="0.0">hdir2118MV.Models.Elev</node>
+            <node x="1189.4955908289244" y="702.0">hdir2118MV.Repositories.IEleviRepository</node>
+            <node x="839.9221781305116" y="191.0">hdir2118MV.Models.Medie</node>
+            <node x="258.0" y="1087.0">hdir2118MV.utils.ClasaException</node>
+            <node x="425.9221781305116" y="169.0">hdir2118MV.Repositories.IClasaRepository</node>
+            <node x="1054.4661375661376" y="179.5">hdir2118MV.Models.Corigent</node>
+            <node x="530.9221781305116" y="991.0">hdir2118MV.Main.StartApp</node>
+            <node x="47.5" y="702.0">hdir2118MV.Repositories.INoteRepository</node>
+            <node x="65.70185185185187" y="180.0">hdir2118MV.Models.Nota</node>
+            <node x="425.9221781305116" y="569.0">hdir2118MV.Controllers.NoteController</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="hdir2118MV.Repositories.NoteRepository" target="hdir2118MV.Repositories.INoteRepository">
+              <point x="0.0" y="-48.0" />
+              <point x="-50.5" y="48.0" />
+            </edge>
+            <edge source="hdir2118MV.Controllers.NoteController" target="hdir2118MV.Repositories.IEleviRepository">
+              <point x="168.8571428571429" y="-181.0" />
+              <point x="791.7793209876545" y="549.0" />
+              <point x="1189.4955908289244" y="549.0" />
+              <point x="-50.0" y="48.0" />
+            </edge>
+            <edge source="hdir2118MV.Repositories.ClasaRepository" target="hdir2118MV.Repositories.IClasaRepository">
+              <point x="0.0" y="-70.0" />
+              <point x="584.1161375661376" y="349.0" />
+              <point x="622.9221781305116" y="349.0" />
+              <point x="0.0" y="70.0" />
+            </edge>
+            <edge source="hdir2118MV.Repositories.IClasaRepository" target="hdir2118MV.Models.Medie">
+              <point x="78.79999999999995" y="-70.0" />
+              <point x="662.9161375661375" y="329.0" />
+              <point x="868.0888447971782" y="329.0" />
+              <point x="-56.33333333333337" y="48.0" />
+            </edge>
+            <edge source="hdir2118MV.Repositories.IClasaRepository" target="hdir2118MV.Models.Corigent">
+              <point x="157.60000000000002" y="-70.0" />
+              <point x="741.7161375661376" y="339.0" />
+              <point x="1087.1328042328041" y="339.0" />
+              <point x="-65.33333333333326" y="59.5" />
+            </edge>
+            <edge source="hdir2118MV.Repositories.IEleviRepository" target="hdir2118MV.Models.Elev">
+              <point x="0.0" y="-48.0" />
+              <point x="1239.4955908289244" y="349.0" />
+              <point x="1271.9437389770724" y="349.0" />
+              <point x="1271.9437389770724" y="139.0" />
+              <point x="933.6234126984127" y="139.0" />
+              <point x="67.60000000000002" y="59.5" />
+            </edge>
+            <edge source="hdir2118MV.Repositories.IClasaRepository" target="hdir2118MV.Models.Elev">
+              <point x="-78.80000000000007" y="-70.0" />
+              <point x="505.3161375661375" y="329.0" />
+              <point x="415.4221781305116" y="329.0" />
+              <point x="415.4221781305116" y="149.0" />
+              <point x="832.2234126984126" y="149.0" />
+              <point x="-33.799999999999955" y="59.5" />
+            </edge>
+            <edge source="hdir2118MV.Repositories.INoteRepository" target="hdir2118MV.Models.Nota">
+              <point x="0.0" y="-48.0" />
+              <point x="199.0" y="349.0" />
+              <point x="190.20185185185187" y="349.0" />
+              <point x="0.0" y="59.0" />
+            </edge>
+            <edge source="hdir2118MV.Controllers.NoteController" target="hdir2118MV.Models.Elev">
+              <point x="-56.285714285714334" y="-181.0" />
+              <point x="566.6364638447973" y="529.0" />
+              <point x="371.1161375661376" y="529.0" />
+              <point x="371.1161375661376" y="139.0" />
+              <point x="798.4234126984127" y="139.0" />
+              <point x="-67.60000000000002" y="59.5" />
+            </edge>
+            <edge source="hdir2118MV.Repositories.IClasaRepository" target="hdir2118MV.Models.Nota">
+              <point x="-157.60000000000008" y="-70.0" />
+              <point x="426.5161375661375" y="339.0" />
+              <point x="289.8018518518519" y="339.0" />
+              <point x="99.60000000000002" y="59.0" />
+            </edge>
+            <edge source="hdir2118MV.Main.StartApp" target="hdir2118MV.Models.Medie">
+              <point x="46.0" y="-25.5" />
+              <point x="668.9221781305116" y="961.0" />
+              <point x="1128.9955908289244" y="961.0" />
+              <point x="1128.9955908289244" y="329.0" />
+              <point x="980.755511463845" y="329.0" />
+              <point x="56.33333333333337" y="48.0" />
+            </edge>
+            <edge source="hdir2118MV.Main.StartApp" target="hdir2118MV.Models.Corigent">
+              <point x="76.66666666666663" y="-25.5" />
+              <point x="699.5888447971782" y="971.0" />
+              <point x="1399.9955908289244" y="971.0" />
+              <point x="1399.9955908289244" y="339.0" />
+              <point x="1217.7994708994706" y="339.0" />
+              <point x="65.33333333333326" y="59.5" />
+            </edge>
+            <edge source="hdir2118MV.Main.StartApp" target="hdir2118MV.Controllers.NoteController">
+              <point x="15.333333333333371" y="-25.5" />
+              <point x="638.255511463845" y="951.0" />
+              <point x="721.4221781305116" y="951.0" />
+              <point x="98.5" y="181.0" />
+            </edge>
+            <edge source="hdir2118MV.Models.Medie" target="hdir2118MV.Models.Elev">
+              <point x="42.25" y="-48.0" />
+              <point x="966.6721781305116" y="149.0" />
+              <point x="899.8234126984125" y="149.0" />
+              <point x="33.799999999999955" y="59.5" />
+            </edge>
+            <edge source="hdir2118MV.Controllers.NoteController" target="hdir2118MV.Repositories.INoteRepository">
+              <point x="-168.85714285714295" y="-181.0" />
+              <point x="454.06503527336866" y="549.0" />
+              <point x="249.5" y="549.0" />
+              <point x="50.5" y="48.0" />
+            </edge>
+            <edge source="hdir2118MV.Controllers.NoteController" target="hdir2118MV.Models.Nota">
+              <point x="-112.57142857142867" y="-181.0" />
+              <point x="510.35074955908294" y="539.0" />
+              <point x="332.21428571428567" y="539.0" />
+              <point x="332.21428571428567" y="349.0" />
+              <point x="240.00185185185188" y="349.0" />
+              <point x="49.80000000000001" y="59.0" />
+            </edge>
+            <edge source="hdir2118MV.Repositories.EleviRepository" target="hdir2118MV.Repositories.IEleviRepository">
+              <point x="0.0" y="-48.0" />
+              <point x="50.0" y="48.0" />
+            </edge>
+            <edge source="hdir2118MV.Main.StartApp" target="hdir2118MV.Models.Nota">
+              <point x="-46.0" y="-25.5" />
+              <point x="576.9221781305116" y="961.0" />
+              <point x="37.0" y="961.0" />
+              <point x="37.0" y="349.0" />
+              <point x="140.40185185185192" y="349.0" />
+              <point x="-49.799999999999955" y="59.0" />
+            </edge>
+            <edge source="hdir2118MV.Controllers.NoteController" target="hdir2118MV.Models.Medie">
+              <point x="56.28571428571422" y="-181.0" />
+              <point x="679.2078924162258" y="529.0" />
+              <point x="941.5888447971784" y="529.0" />
+              <point x="941.5888447971784" y="329.0" />
+              <point x="924.4221781305116" y="329.0" />
+              <point x="0.0" y="48.0" />
+            </edge>
+            <edge source="hdir2118MV.Controllers.NoteController" target="hdir2118MV.Repositories.IClasaRepository">
+              <point x="0.0" y="-181.0" />
+              <point x="622.9221781305116" y="549.0" />
+              <point x="584.1161375661376" y="549.0" />
+              <point x="0.0" y="70.0" />
+            </edge>
+            <edge source="hdir2118MV.Controllers.NoteController" target="hdir2118MV.Models.Corigent">
+              <point x="112.57142857142856" y="-181.0" />
+              <point x="735.4936067019402" y="539.0" />
+              <point x="1076.0313051146386" y="539.0" />
+              <point x="1076.0313051146386" y="349.0" />
+              <point x="1152.4661375661376" y="349.0" />
+              <point x="0.0" y="59.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.40288378815009235" x="1625.635837183408" y="909.5484480017892" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>

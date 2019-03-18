@@ -8,10 +8,10 @@ import java.io.*;
 import java.util.LinkedList;
 import java.util.List;
 
-public class NoteRepositoryMock implements NoteRepository{
+public class NoteRepository implements INoteRepository {
 	private List<Nota> note;
 	
-	public NoteRepositoryMock() {
+	public NoteRepository() {
 		note = new LinkedList<Nota>();
 	}
 

@@ -9,11 +9,11 @@ import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
 
-public class ClasaRepositoryMock implements ClasaRepository{
+public class ClasaRepository implements IClasaRepository {
 
 	private HashMap<Elev, HashMap<String, List<Double>>> clasa;
 	
-	public ClasaRepositoryMock() {
+	public ClasaRepository() {
 		clasa = new HashMap<Elev, HashMap<String, List<Double>>>();
 	}
 

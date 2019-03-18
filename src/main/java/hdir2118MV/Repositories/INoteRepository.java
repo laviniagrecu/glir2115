@@ -5,7 +5,7 @@ import hdir2118MV.utils.ClasaException;
 
 import java.util.List;
 
-public interface NoteRepository {
+public interface INoteRepository {
 	
 	public void addNota(Nota nota) throws ClasaException;
 	public List<Nota> getNote();
