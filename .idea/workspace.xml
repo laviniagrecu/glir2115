@@ -2,22 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40010e71-3ab1-4a8f-9931-895f159b23eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hdir2118MV/Models/Corigent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hdir2118MV/Models/Elev.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hdir2118MV/Models/Medie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hdir2118MV/Models/Nota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/ClasaRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/ClasaRepositoryMock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/EleviRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/EleviRepositoryMock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/NoteRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/NoteRepositoryMock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hdir2118MV/elevi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hdir2118MV/note" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hdir2118MV/utils/ClasaException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hdir2118MV/utils/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hdir2118MV/test/AddNotaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hdir2118MV/test/CalculeazaMediiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hdir2118MV/test/GetCorigentiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hdir2118MV/test/IntegrationTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hdir2118MV/App.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -38,26 +27,27 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="elevi" value="1" />
-          <entry key="java" value="39" />
+          <entry key="java" value="48" />
+          <entry key="note" value="1" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="39" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="JAVA" value="48" />
+          <entry key="PLAIN_TEXT" value="2" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="587" />
+          <entry key="java" value="649" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="587" />
+          <entry key="JAVA" value="649" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
@@ -66,33 +56,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Main/StartApp.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/hdir2118MV/test/AddNotaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+            <state relative-caret-position="135">
+              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#897#904#0" expanded="true" />
-                <element signature="e#950#960#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/utils/ClasaException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/utils/NotaException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -125,6 +95,10 @@
         <option value="$PROJECT_DIR$/src/main/java/hdir2118MV/utils/InputException.java" />
         <option value="$PROJECT_DIR$/src/main/java/hdir2118MV/utils/NotaException.java" />
         <option value="$PROJECT_DIR$/src/main/java/hdir2118MV/Main/StartApp.java" />
+        <option value="$PROJECT_DIR$/src/test/java/hdir2118MV/test/IntegrationTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/hdir2118MV/test/GetCorigentiTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/hdir2118MV/test/CalculeazaMediiTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/hdir2118MV/test/AddNotaTest.java" />
       </list>
     </option>
   </component>
@@ -184,46 +158,31 @@
               <item name="hdir2118" type="b2602c69:ProjectViewProjectNode" />
               <item name="NoteElevi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hdir2118MV" type="462c0819:PsiDirectoryNode" />
-              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hdir2118" type="b2602c69:ProjectViewProjectNode" />
               <item name="NoteElevi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hdir2118MV" type="462c0819:PsiDirectoryNode" />
-              <item name="Main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hdir2118" type="b2602c69:ProjectViewProjectNode" />
               <item name="NoteElevi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hdir2118MV" type="462c0819:PsiDirectoryNode" />
-              <item name="Models" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hdir2118" type="b2602c69:ProjectViewProjectNode" />
               <item name="NoteElevi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hdir2118MV" type="462c0819:PsiDirectoryNode" />
-              <item name="Repositories" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hdir2118" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NoteElevi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hdir2118MV" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -233,7 +192,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552936957693" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552937447129" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -242,6 +201,7 @@
       <recent name="hdir2118MV.Controllers" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/hdir2118MV" />
       <recent name="$PROJECT_DIR$/src/main/java/hdir2118MV" />
       <recent name="$PROJECT_DIR$/src/main/java/hdir2118MV/utils" />
       <recent name="$PROJECT_DIR$/src/main/java/hdir2118MV/Models" />
@@ -306,7 +266,7 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32968536" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32968536" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" weight="0.32968536" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -392,13 +352,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/utils/Constants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/NoteRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -406,34 +359,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/EleviRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/ClasaRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/NoteRepositoryMock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/EleviRepositoryMock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -454,16 +383,6 @@
           <folding>
             <element signature="e#170#171#0" expanded="true" />
             <element signature="e#198#199#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Controllers/NoteController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -489,14 +408,105 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/utils/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/note">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/NoteRepositoryMock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-225">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Controllers/NoteController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-37">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Main/StartApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+        <state relative-caret-position="720">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#897#904#0" expanded="true" />
             <element signature="e#950#960#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/EleviRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/EleviRepositoryMock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/hdir2118MV/test/IntegrationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-884">
+          <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/hdir2118MV/test/GetCorigentiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1777">
+          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/hdir2118MV/test/CalculeazaMediiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/hdir2118MV/test/AddNotaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
