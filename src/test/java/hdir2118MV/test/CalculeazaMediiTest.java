@@ -71,7 +71,7 @@ private NoteController ctrl;
 		List<Medie> rezultate = ctrl.calculeazaMedii();
 		for(Medie m : rezultate)
 			if(m.getElev().getNrmatricol() == 2)
-				assertEquals(m.getMedie(),0,0.0001);
+				assertEquals(m.getMedie(), Double.NaN, 0.0001);
 	}
 	
 }

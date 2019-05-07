@@ -32,7 +32,6 @@ public class NoteController {
 	
 	public List<Medie> calculeazaMedii() throws ClasaException {
 			return clasa.calculeazaMedii();
-		
 	}
 	
 	public List<Nota> getNote() {

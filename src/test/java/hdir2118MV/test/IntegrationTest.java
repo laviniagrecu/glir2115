@@ -45,7 +45,7 @@ public class IntegrationTest {
 		List<Medie> rezultate = ctrl.calculeazaMedii();
 		for(Medie m : rezultate)
 			if(m.getElev().getNrmatricol() == 2)
-				assertEquals(m.getMedie(),0,0.0001);
+				assertEquals(m.getMedie(),Double.NaN,0.0001);
 	}
 	
 	@Test
@@ -73,7 +73,7 @@ public class IntegrationTest {
 		ctrl.addNota(n8);
 		ctrl.creeazaClasa(ctrl.getElevi(), ctrl.getNote());
 		List<Corigent> corigenti = ctrl.getCorigenti();
-		assertEquals(corigenti.get(1).getNrMaterii()+1, corigenti.get(0).getNrMaterii());
+		assertEquals(corigenti.get(1).getNrMaterii(), corigenti.get(0).getNrMaterii()+1);
 	}
 	
 	@Test
@@ -139,7 +139,7 @@ public class IntegrationTest {
 		//P->B->A->C B-invalid A-valid C-valid
 		expectedEx.expect(ClasaException.class);
 		expectedEx.expectMessage(Constants.emptyRepository);
-		//List<Medie> rezultate = ctrl.calculeazaMedii();
+		List<Medie> rezultate = ctrl.calculeazaMedii();
 		Elev e1 = new Elev(1, "Elev1");
 		ctrl.addElev(e1);
 		Nota nota = new Nota(1, "Desena", 10);
@@ -168,10 +168,5 @@ public class IntegrationTest {
 		List<Corigent> corigenti = ctrl.getCorigenti();
 		assertEquals(corigenti.size(),0);
 	}
-	
-	/*@Test
-	public void test10() {
-		//P->B->A->C B-valid A-valid C-invalid
-	}
-*/
+
 }
