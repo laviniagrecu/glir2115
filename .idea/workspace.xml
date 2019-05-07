@@ -2,14 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40010e71-3ab1-4a8f-9931-895f159b23eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hdir2118MV/eleviEmpty" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hdir2118MV/noteEmpty" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hdir2118MV/Repositories/ClasaRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/hdir2118.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__backport_util_concurrent_backport_util_concurrent_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__classworlds_classworlds_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__nekohtml_nekohtml_1_9_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__nekohtml_xercesMinimal_1_9_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_jackrabbit_jackrabbit_jcr_commons_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_jackrabbit_jackrabbit_webdav_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_logging_api_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_artifact_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_artifact_manager_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_core_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_error_diagnostics_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_model_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_monitor_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_plugin_api_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_plugin_descriptor_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_plugin_parameter_documenter_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_plugin_registry_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_profile_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_project_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_repository_metadata_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_settings_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_toolchain_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_plugin_tools_maven_plugin_annotations_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_plugins_maven_failsafe_plugin_2_18_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_reporting_maven_reporting_api_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_surefire_maven_surefire_common_2_18_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_surefire_surefire_api_2_18_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_surefire_surefire_booter_2_18_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_wagon_wagon_http_1_0_beta_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_wagon_wagon_http_shared_1_0_beta_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_wagon_wagon_provider_api_1_0_beta_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_wagon_wagon_webdav_jackrabbit_1_0_beta_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_container_default_1_0_alpha_9_stable_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_interpolation_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_1_5_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_jdk14_1_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_nop_1_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_plexus_plexus_cipher_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_plexus_plexus_sec_dispatcher_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prj234_test_spec-2019-04-02.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hdir2118MV/elevi" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hdir2118MV/elevi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hdir2118MV/note" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hdir2118MV/note" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/~$j234_test_spec-2019-04-02.doc" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,37 +68,32 @@
       <FILTER>hdir2118MV.Repositories.*</FILTER>
     </SUITE>
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Main/StartApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="53" column="30" lean-forward="true" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/ClasaRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-609">
-              <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/hdir2118MV/Repositories/ClasaRepositoryTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/hdir2118MV/test/IntegrationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="47" column="37" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
+            <state relative-caret-position="-234">
+              <caret line="102" column="48" selection-start-line="102" selection-start-column="48" selection-end-line="102" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/hdir2118MV/test/AddNotaTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2262">
+              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -113,109 +152,28 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
             <path>
-              <item name="hdir2118" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NoteElevi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hdir2118" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NoteElevi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hdir2118" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NoteElevi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hdir2118" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NoteElevi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hdir2118" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NoteElevi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hdir2118MV" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hdir2118" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NoteElevi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hdir2118MV" type="462c0819:PsiDirectoryNode" />
-              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hdir2118" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NoteElevi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hdir2118MV" type="462c0819:PsiDirectoryNode" />
-              <item name="Main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hdir2118" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NoteElevi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hdir2118MV" type="462c0819:PsiDirectoryNode" />
-              <item name="Models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hdir2118" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NoteElevi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hdir2118" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NoteElevi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hdir2118" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NoteElevi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hdir2118MV" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hdir2118" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NoteElevi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hdir2118MV" type="462c0819:PsiDirectoryNode" />
-              <item name="Repositories" type="462c0819:PsiDirectoryNode" />
+              <item name="hdir2118" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hdir2118" type="2674bda8:ScopeViewTreeModel$GroupNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555417231531" />
@@ -223,10 +181,10 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.excludes" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -263,11 +221,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ClasaRepositoryTest">
+  <component name="RunManager" selected="Application.StartApp">
     <configuration name="StartApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hdir2118MV.Main.StartApp" />
-      <module name="NoteElevi" />
-      <option name="PROGRAM_PARAMETERS" value="src/main/java/hdir2118MV/elevi src/main/java/hdir2118MV/note" />
+      <module name="hdir2118" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/src/main/java/hdir2118MV/elevi $PROJECT_DIR$/src/main/java/hdir2118MV/note" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="hdir2118MV.Main.*" />
@@ -352,10 +310,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StartApp" />
         <item itemvalue="JUnit.ClasaRepositoryTest" />
         <item itemvalue="JUnit.hdir2118MV.test in hdir2118" />
         <item itemvalue="JUnit.ClasaRepositoryTest.calculeazaMedii" />
-        <item itemvalue="Application.StartApp" />
         <item itemvalue="JUnit.NoteRepositoryTest" />
       </list>
     </recent_temporary>
@@ -418,9 +376,41 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="823" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23247497" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23819743" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32968536" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2243502" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.23939809" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32968536" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+      <window_info active="true" anchor="right" id="Coverage" order="10" side_tool="true" visible="true" weight="0.19670959" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23819743" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -436,11 +426,10 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.23939809" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32968536" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info active="true" anchor="right" id="Coverage" side_tool="true" visible="true" weight="0.19670959" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -451,47 +440,13 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="right" id="Maven" order="8" />
       <window_info anchor="right" id="Database" order="9" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24964234" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32968536" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.32968536" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" weight="0.32968536" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.32968536" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info active="true" anchor="right" id="Coverage" order="10" side_tool="true" visible="true" weight="0.19670959" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Main/App.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Models/Corigent.java">
       <provider selected="true" editor-type-id="text-editor" />
@@ -519,96 +474,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/hdir2118MV/test/IntegrationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-884">
-          <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/hdir2118MV/test/GetCorigentiTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1777">
-          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/hdir2118MV/test/CalculeazaMediiTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/hdir2118MV/test/AddNotaTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://MODULES/mdl-hdir2118">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>MODULES</ID>
-          <OriginalElement>mdl-hdir2118</OriginalElement>
-          <nodes>
-            <node x="" y="">mdl-hdir2118</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="70.0" y="15.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JavaScript-modules-diagram//Users/denisah/Documents/University Sem2/VVSS/NoteElevi">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JavaScript-modules-diagram</ID>
-          <OriginalElement>$PROJECT_DIR$</OriginalElement>
-          <nodes />
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="522.0" y="220.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>All</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>Details</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JavaScript-modules-diagram//Users/denisah/Documents/University Sem2/VVSS/NoteElevi/src">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JavaScript-modules-diagram</ID>
-          <OriginalElement>$PROJECT_DIR$/src</OriginalElement>
-          <nodes />
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="522.0" y="220.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>All</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>Details</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
+    <entry file="uml://MODULES/mdl-hdir2118" />
+    <entry file="uml://JavaScript-modules-diagram//Users/denisah/Documents/University Sem2/VVSS/NoteElevi" />
+    <entry file="uml://JavaScript-modules-diagram//Users/denisah/Documents/University Sem2/VVSS/NoteElevi/src" />
     <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/IEleviRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -619,274 +487,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/hdir2118MV">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>hdir2118MV</OriginalElement>
-          <nodes>
-            <node x="690.6666666666667" y="398.0">hdir2118MV.utils.Constants</node>
-            <node x="1104.006896551724" y="0.0">hdir2118MV.Models.Elev</node>
-            <node x="0.0" y="745.0">hdir2118MV.Repositories.EleviRepository</node>
-            <node x="101.63089080459747" y="452.5">hdir2118MV.Repositories.IEleviRepository</node>
-            <node x="1754.656896551724" y="200.5">hdir2118MV.Models.Medie</node>
-            <node x="945.8892241379308" y="723.0">hdir2118MV.Repositories.ClasaRepository</node>
-            <node x="923.6666666666667" y="463.5">hdir2118MV.utils.ClasaException</node>
-            <node x="1424.1666666666665" y="430.5">hdir2118MV.Repositories.IClasaRepository</node>
-            <node x="1231.2166666666667" y="189.0">hdir2118MV.Models.Corigent</node>
-            <node x="818.8166666666666" y="1388.0">hdir2118MV.Main.StartApp</node>
-            <node x="468.66666666666674" y="452.5">hdir2118MV.Repositories.INoteRepository</node>
-            <node x="429.0303160919541" y="734.0">hdir2118MV.Repositories.NoteRepository</node>
-            <node x="359.0303160919541" y="189.5">hdir2118MV.Models.Nota</node>
-            <node x="713.8166666666666" y="966.0">hdir2118MV.Controllers.NoteController</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="hdir2118MV.Repositories.EleviRepository" target="hdir2118MV.Models.Elev">
-              <point x="-25.0" y="-59.5" />
-              <point x="75.0" y="703.0" />
-              <point x="78.63089080459747" y="703.0" />
-              <point x="78.63089080459747" y="149.0" />
-              <point x="1129.3568965517238" y="149.0" />
-              <point x="-59.150000000000006" y="59.5" />
-            </edge>
-            <edge source="hdir2118MV.Repositories.NoteRepository" target="hdir2118MV.Repositories.INoteRepository">
-              <point x="19.833333333333258" y="-70.5" />
-              <point x="567.8636494252873" y="673.0" />
-              <point x="519.1666666666667" y="673.0" />
-              <point x="-50.5" y="48.0" />
-            </edge>
-            <edge source="hdir2118MV.Controllers.NoteController" target="hdir2118MV.Repositories.IEleviRepository">
-              <point x="-137.89999999999986" y="-181.0" />
-              <point x="772.9166666666667" y="936.0" />
-              <point x="251.63089080459747" y="936.0" />
-              <point x="50.0" y="48.0" />
-            </edge>
-            <edge source="hdir2118MV.Repositories.NoteRepository" target="hdir2118MV.Models.Nota">
-              <point x="-59.5" y="-70.5" />
-              <point x="488.5303160919541" y="693.0" />
-              <point x="408.83333333333337" y="693.0" />
-              <point x="408.83333333333337" y="368.0" />
-              <point x="483.5303160919541" y="368.0" />
-              <point x="0.0" y="59.0" />
-            </edge>
-            <edge source="hdir2118MV.Repositories.IClasaRepository" target="hdir2118MV.Models.Nota">
-              <point x="-147.75" y="-70.0" />
-              <point x="1473.4166666666665" y="358.0" />
-              <point x="594.1969827586208" y="358.0" />
-              <point x="110.66666666666674" y="59.0" />
-            </edge>
-            <edge source="hdir2118MV.Main.StartApp" target="hdir2118MV.Models.Medie">
-              <point x="76.66666666666663" y="-25.5" />
-              <point x="987.4833333333332" y="1368.0" />
-              <point x="1861.6666666666665" y="1368.0" />
-              <point x="1861.6666666666665" y="378.0" />
-              <point x="1906.756896551724" y="378.0" />
-              <point x="67.60000000000002" y="48.0" />
-            </edge>
-            <edge source="hdir2118MV.Repositories.ClasaRepository" target="hdir2118MV.Repositories.IClasaRepository">
-              <point x="98.5" y="-81.5" />
-              <point x="1241.3892241379308" y="683.0" />
-              <point x="1522.6666666666665" y="683.0" />
-              <point x="-98.5" y="70.0" />
-            </edge>
-            <edge source="hdir2118MV.Repositories.IClasaRepository" target="hdir2118MV.Models.Medie">
-              <point x="147.75" y="-70.0" />
-              <point x="1768.9166666666665" y="378.0" />
-              <point x="1771.5568965517239" y="378.0" />
-              <point x="-67.60000000000002" y="48.0" />
-            </edge>
-            <edge source="hdir2118MV.Main.StartApp" target="hdir2118MV.Models.Corigent">
-              <point x="46.0" y="-25.5" />
-              <point x="956.8166666666666" y="1358.0" />
-              <point x="1413.6666666666665" y="1358.0" />
-              <point x="1413.6666666666665" y="368.0" />
-              <point x="1368.4166666666667" y="368.0" />
-              <point x="39.200000000000045" y="59.5" />
-            </edge>
-            <edge source="hdir2118MV.Main.StartApp" target="hdir2118MV.Controllers.NoteController">
-              <point x="-15.333333333333371" y="-25.5" />
-              <point x="895.4833333333332" y="1348.0" />
-              <point x="812.3166666666666" y="1348.0" />
-              <point x="-98.5" y="181.0" />
-            </edge>
-            <edge source="hdir2118MV.Repositories.IClasaRepository" target="hdir2118MV.Models.Corigent">
-              <point x="-49.25" y="-70.0" />
-              <point x="1571.9166666666665" y="348.0" />
-              <point x="1407.6166666666668" y="348.0" />
-              <point x="78.39999999999998" y="59.5" />
-            </edge>
-            <edge source="hdir2118MV.Controllers.NoteController" target="hdir2118MV.Repositories.EleviRepository">
-              <point x="-177.29999999999984" y="-181.0" />
-              <point x="733.5166666666668" y="946.0" />
-              <point x="100.0" y="946.0" />
-              <point x="0.0" y="59.5" />
-            </edge>
-            <edge source="hdir2118MV.Repositories.IEleviRepository" target="hdir2118MV.Models.Elev">
-              <point x="0.0" y="-48.0" />
-              <point x="201.63089080459747" y="169.0" />
-              <point x="1163.156896551724" y="169.0" />
-              <point x="-25.349999999999994" y="59.5" />
-            </edge>
-            <edge source="hdir2118MV.Repositories.ClasaRepository" target="hdir2118MV.Models.Medie">
-              <point x="177.29999999999995" y="-81.5" />
-              <point x="1320.1892241379308" y="703.0" />
-              <point x="1839.6666666666665" y="703.0" />
-              <point x="0.0" y="48.0" />
-            </edge>
-            <edge source="hdir2118MV.Models.Medie" target="hdir2118MV.Models.Elev">
-              <point x="-42.25" y="-48.0" />
-              <point x="1796.906896551724" y="159.0" />
-              <point x="1230.756896551724" y="159.0" />
-              <point x="42.25" y="59.5" />
-            </edge>
-            <edge source="hdir2118MV.Controllers.NoteController" target="hdir2118MV.Repositories.INoteRepository">
-              <point x="-19.699999999999932" y="-181.0" />
-              <point x="891.1166666666667" y="906.0" />
-              <point x="683.8636494252875" y="906.0" />
-              <point x="683.8636494252875" y="683.0" />
-              <point x="620.1666666666667" y="683.0" />
-              <point x="50.5" y="48.0" />
-            </edge>
-            <edge source="hdir2118MV.Controllers.NoteController" target="hdir2118MV.Models.Nota">
-              <point x="-98.49999999999989" y="-181.0" />
-              <point x="812.3166666666667" y="926.0" />
-              <point x="348.5" y="926.0" />
-              <point x="348.5" y="348.0" />
-              <point x="428.19698275862083" y="348.0" />
-              <point x="-55.33333333333326" y="59.0" />
-            </edge>
-            <edge source="hdir2118MV.Repositories.ClasaRepository" target="hdir2118MV.Models.Nota">
-              <point x="-98.49999999999989" y="-81.5" />
-              <point x="1044.3892241379308" y="633.0" />
-              <point x="1147.1666666666667" y="633.0" />
-              <point x="1147.1666666666667" y="368.0" />
-              <point x="566.5303160919541" y="368.0" />
-              <point x="83.0" y="59.0" />
-            </edge>
-            <edge source="hdir2118MV.Repositories.NoteRepository" target="hdir2118MV.utils.Constants">
-              <point x="59.5" y="-70.5" />
-              <point x="607.5303160919541" y="693.0" />
-              <point x="743.9166666666667" y="693.0" />
-              <point x="-53.25" y="102.5" />
-            </edge>
-            <edge source="hdir2118MV.Repositories.EleviRepository" target="hdir2118MV.Repositories.IEleviRepository">
-              <point x="75.0" y="-59.5" />
-              <point x="175.0" y="703.0" />
-              <point x="151.63089080459747" y="703.0" />
-              <point x="-50.0" y="48.0" />
-            </edge>
-            <edge source="hdir2118MV.Repositories.ClasaRepository" target="hdir2118MV.Models.Corigent">
-              <point x="59.09999999999991" y="-81.5" />
-              <point x="1201.9892241379307" y="673.0" />
-              <point x="1264.4136494252875" y="673.0" />
-              <point x="1264.4136494252875" y="378.0" />
-              <point x="1290.0166666666667" y="378.0" />
-              <point x="-39.200000000000045" y="59.5" />
-            </edge>
-            <edge source="hdir2118MV.Repositories.NoteRepository" target="hdir2118MV.utils.ClasaException">
-              <point x="99.16666666666674" y="-70.5" />
-              <point x="647.1969827586208" y="703.0" />
-              <point x="976.9166666666667" y="703.0" />
-              <point x="-53.25" y="37.0" />
-            </edge>
-            <edge source="hdir2118MV.Repositories.IClasaRepository" target="hdir2118MV.Models.Elev">
-              <point x="49.25" y="-70.0" />
-              <point x="1670.4166666666665" y="169.0" />
-              <point x="1213.8568965517238" y="169.0" />
-              <point x="25.350000000000023" y="59.5" />
-            </edge>
-            <edge source="hdir2118MV.Main.StartApp" target="hdir2118MV.Models.Nota">
-              <point x="-46.0" y="-25.5" />
-              <point x="864.8166666666666" y="1358.0" />
-              <point x="323.13089080459747" y="1358.0" />
-              <point x="323.13089080459747" y="338.0" />
-              <point x="400.5303160919541" y="338.0" />
-              <point x="-83.0" y="59.0" />
-            </edge>
-            <edge source="hdir2118MV.Controllers.NoteController" target="hdir2118MV.Models.Medie">
-              <point x="137.89999999999998" y="-181.0" />
-              <point x="1048.7166666666667" y="936.0" />
-              <point x="1850.6666666666665" y="936.0" />
-              <point x="1850.6666666666665" y="368.0" />
-              <point x="1872.9568965517237" y="368.0" />
-              <point x="33.799999999999955" y="48.0" />
-            </edge>
-            <edge source="hdir2118MV.Controllers.NoteController" target="hdir2118MV.Repositories.NoteRepository">
-              <point x="-59.09999999999991" y="-181.0" />
-              <point x="851.7166666666667" y="916.0" />
-              <point x="548.0303160919541" y="916.0" />
-              <point x="0.0" y="70.5" />
-            </edge>
-            <edge source="hdir2118MV.Repositories.ClasaRepository" target="hdir2118MV.utils.Constants">
-              <point x="-177.29999999999984" y="-81.5" />
-              <point x="965.589224137931" y="693.0" />
-              <point x="850.4166666666667" y="693.0" />
-              <point x="53.25" y="102.5" />
-            </edge>
-            <edge source="hdir2118MV.Controllers.NoteController" target="hdir2118MV.Repositories.IClasaRepository">
-              <point x="98.5" y="-181.0" />
-              <point x="1009.3166666666666" y="926.0" />
-              <point x="1719.6666666666665" y="926.0" />
-              <point x="98.5" y="70.0" />
-            </edge>
-            <edge source="hdir2118MV.Controllers.NoteController" target="hdir2118MV.Repositories.ClasaRepository">
-              <point x="19.700000000000045" y="-181.0" />
-              <point x="930.5166666666667" y="906.0" />
-              <point x="1142.8892241379308" y="906.0" />
-              <point x="0.0" y="81.5" />
-            </edge>
-            <edge source="hdir2118MV.Repositories.ClasaRepository" target="hdir2118MV.utils.ClasaException">
-              <point x="-137.89999999999986" y="-81.5" />
-              <point x="1004.9892241379309" y="623.0" />
-              <point x="1083.4166666666667" y="623.0" />
-              <point x="53.25" y="37.0" />
-            </edge>
-            <edge source="hdir2118MV.Controllers.NoteController" target="hdir2118MV.Models.Corigent">
-              <point x="59.10000000000002" y="-181.0" />
-              <point x="969.9166666666666" y="916.0" />
-              <point x="1371.6142241379307" y="916.0" />
-              <point x="1371.6142241379307" y="378.0" />
-              <point x="1329.2166666666667" y="378.0" />
-              <point x="0.0" y="59.5" />
-            </edge>
-            <edge source="hdir2118MV.Repositories.INoteRepository" target="hdir2118MV.Models.Nota">
-              <point x="0.0" y="-48.0" />
-              <point x="569.6666666666667" y="378.0" />
-              <point x="538.8636494252876" y="378.0" />
-              <point x="55.333333333333485" y="59.0" />
-            </edge>
-            <edge source="hdir2118MV.Repositories.ClasaRepository" target="hdir2118MV.Models.Elev">
-              <point x="-59.09999999999991" y="-81.5" />
-              <point x="1083.789224137931" y="643.0" />
-              <point x="1178.6666666666667" y="643.0" />
-              <point x="1178.6666666666667" y="169.0" />
-              <point x="1180.0568965517239" y="169.0" />
-              <point x="-8.449999999999989" y="59.5" />
-            </edge>
-            <edge source="hdir2118MV.Controllers.NoteController" target="hdir2118MV.Models.Elev">
-              <point x="177.29999999999995" y="-181.0" />
-              <point x="1088.1166666666666" y="946.0" />
-              <point x="1934.156896551724" y="946.0" />
-              <point x="1934.156896551724" y="139.0" />
-              <point x="1264.556896551724" y="139.0" />
-              <point x="76.05000000000007" y="59.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="0.360026467672437" x="1014.0" y="663.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
+    <entry file="uml://JAVA/hdir2118MV" />
     <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/utils/Constants.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -894,37 +495,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="554" selection-start-line="554" selection-end-line="554" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/IClasaRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/LinkedList.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/NoteRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="429">
           <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/hdir2118MV/Repositories/NoteRepositoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="21" column="11" lean-forward="true" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -957,10 +532,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Models/Medie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Models/Elev.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Main/StartApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="53" column="30" lean-forward="true" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+        <state relative-caret-position="660">
+          <caret line="53" column="30" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -969,11 +558,121 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/ClasaRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-609">
+        <state relative-caret-position="405">
           <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/hdir2118MV/Controllers/NoteController.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#1918#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NoteElevi.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/test-classes/hdir2118MV/AppTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/test-classes/hdir2118MV/test/AddNotaTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#6213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/test-classes/hdir2118MV/test/CalculeazaMediiTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#2792#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/test-classes/hdir2118MV/test/GetCorigentiTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1563">
+          <folding>
+            <element signature="e#0#5558#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/test-classes/hdir2118MV/test/IntegrationTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1122">
+          <folding>
+            <element signature="e#0#6459#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/test-classes/hdir2118MV/Repositories/ClasaRepositoryTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#3036#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/test-classes/hdir2118MV/Repositories/NoteRepositoryTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-993">
+          <folding>
+            <element signature="e#0#3347#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/hdir2118MV/test/GetCorigentiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="65" column="25" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/hdir2118MV/test/CalculeazaMediiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/hdir2118MV/Repositories/ClasaRepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="47" column="37" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -991,24 +690,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Models/Medie.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Repositories/IClasaRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-63">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hdir2118MV/Models/Elev.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/hdir2118MV/test/AddNotaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="-2262">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/hdir2118MV/Repositories/ClasaRepositoryTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/hdir2118MV/Repositories/NoteRepositoryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="47" column="37" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
+        <state relative-caret-position="15">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/hdir2118MV/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/hdir2118MV/test/IntegrationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-234">
+          <caret line="102" column="48" selection-start-line="102" selection-start-column="48" selection-end-line="102" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
