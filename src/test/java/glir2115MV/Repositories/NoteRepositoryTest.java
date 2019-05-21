@@ -1,16 +1,14 @@
-package hdir2118MV.Repositories;
+package glir2115MV.Repositories;
 
-import com.sun.tools.corba.se.idl.constExpr.Not;
-import com.sun.xml.internal.xsom.impl.scd.Iterators;
-import hdir2118MV.Models.Nota;
-import hdir2118MV.utils.ClasaException;
+import glir2115MV.Models.Nota;
+import glir2115MV.utils.ClasaException;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
 import java.util.List;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 public class NoteRepositoryTest {
 

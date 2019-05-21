@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="NoteElevi" />
+        <module name="glir2115" />
         <module name="hdir2118" />
+        <module name="NoteElevi" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="glir2115" target="1.7" />
       <module name="hdir2118" target="1.7" />
     </bytecodeTargetLevel>
   </component>

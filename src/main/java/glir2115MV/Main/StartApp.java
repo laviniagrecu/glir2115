@@ -1,8 +1,8 @@
-package hdir2118MV.Main;
+package glir2115MV.Main;
 
-import hdir2118MV.Controllers.NoteController;
-import hdir2118MV.Models.*;
-import hdir2118MV.utils.ClasaException;
+import glir2115MV.Controllers.NoteController;
+import glir2115MV.Models.*;
+import glir2115MV.utils.ClasaException;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,7 +1,7 @@
-package hdir2118MV.Repositories;
+package glir2115MV.Repositories;
 
-import hdir2118MV.Models.*;
-import hdir2118MV.utils.ClasaException;
+import glir2115MV.Models.*;
+import glir2115MV.utils.ClasaException;
 
 import java.util.HashMap;
 import java.util.List;

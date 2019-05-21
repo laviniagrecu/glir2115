@@ -1,4 +1,4 @@
-package hdir2118MV.Models;
+package glir2115MV.Models;
 
 public class Corigent {
 	private String numeElev;

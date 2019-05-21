@@ -1,9 +1,9 @@
-package hdir2118MV.Repositories;
+package glir2115MV.Repositories;
 
-import hdir2118MV.Models.Elev;
-import hdir2118MV.Models.Medie;
-import hdir2118MV.Models.Nota;
-import hdir2118MV.utils.ClasaException;
+import glir2115MV.Models.Elev;
+import glir2115MV.Models.Medie;
+import glir2115MV.Models.Nota;
+import glir2115MV.utils.ClasaException;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
@@ -39,9 +39,9 @@ public class ClasaRepositoryTest {
 
     @Test
     public void calculeazaMedii() throws ClasaException {
-        repoElevi.readElevi("/Users/denisah/Documents/University Sem2/VVSS/NoteElevi/src/main/java/hdir2118MV/note");
+        repoElevi.readElevi("/Users/denisah/Documents/University Sem2/VVSS/NoteElevi/src/main/java/glir2115MV/note");
         elevi = repoElevi.getElevi();
-        repoNote.readNote("/Users/denisah/Documents/University Sem2/VVSS/NoteElevi/src/main/java/hdir2118MV/note");
+        repoNote.readNote("/Users/denisah/Documents/University Sem2/VVSS/NoteElevi/src/main/java/glir2115MV/note");
         note = repoNote.getNote();
 
         repoClasa.creazaClasa(elevi,note);
@@ -59,10 +59,10 @@ public class ClasaRepositoryTest {
     @Test
     public void calculeazaMediiFail() throws ClasaException {
 
-        repoElevi.readElevi("/Users/denisah/Documents/University Sem2/VVSS/NoteElevi/src/main/java/hdir2118MV/noteEmpty");
+        repoElevi.readElevi("/Users/denisah/Documents/University Sem2/VVSS/NoteElevi/src/main/java/glir2115MV/noteEmpty");
         elevi = repoElevi.getElevi();
 
-        repoNote.readNote("/Users/denisah/Documents/University Sem2/VVSS/NoteElevi/src/main/java/hdir2118MV/noteEmpty");
+        repoNote.readNote("/Users/denisah/Documents/University Sem2/VVSS/NoteElevi/src/main/java/glir2115MV/noteEmpty");
         note = repoNote.getNote();
 
         repoClasa.creazaClasa(elevi,note);

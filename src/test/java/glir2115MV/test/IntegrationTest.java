@@ -1,8 +1,8 @@
-package hdir2118MV.test;
+package glir2115MV.test;
 
-import hdir2118MV.Models.*;
-import hdir2118MV.utils.*;
-import hdir2118MV.Controllers.NoteController;
+import glir2115MV.Models.*;
+import glir2115MV.utils.*;
+import glir2115MV.Controllers.NoteController;
 import org.junit.Before;
 import org.junit.Rule;
 import org.junit.Test;
